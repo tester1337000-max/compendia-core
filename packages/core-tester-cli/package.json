@@ -34,7 +34,7 @@
         "@oclif/command": "^1.5.16",
         "@oclif/config": "^1.13.2",
         "@oclif/plugin-help": "^2.2.0",
-        "@oclif/plugin-not-found": "^1.2.2",
+        "@oclif/plugin-not-found": "^2.2.1",
         "bip39": "^3.0.2",
         "clipboardy": "^2.1.0",
         "delay": "^4.3.0",
